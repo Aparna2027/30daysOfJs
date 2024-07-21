@@ -66,4 +66,3 @@ console.log(check);//output->TypeError: Assignment to constant variable.
 
 
 
-
